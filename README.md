@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on NOTHING.
 - 🥅 2020 Goals: Ruined by coronavirus.
 - 💬 Ask me about anything and everything !!
-- 📫 How to **Reach** me at: ishanroy99@yahoo.com 
+- 📫 How to **Reach** me at: sanklavasudev@gmail.com 
 - ⚡ Fun fact: Just gooogle it 
 
 <br />
 
 ## ➡️ Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192//)](https://www.linkedin.com/in/ishan-roy-a06347192/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vasudev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudev-sankla-3144271b1/)](https://www.linkedin.com/in/vasudev-sankla-3144271b1/)
 </br>
-![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)
+![Gmail Badge](https://img.shields.io/badge/-sanklavasudev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanklavasudev@gmail.com)
 
 <br />
 <br />
@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
+|
+![Visitor Count](https://github-readme-stats.vercel.app/api?username=vasudev-san&count_private=true&theme=cobalt)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-san"/>|
 |---|---|
 
 ---
@@ -87,13 +88,13 @@ Here are some ideas to get you started:
 <details>
   <summary> :zap: Languages Used</summary>
   <br />
-  <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />  
+  <img alt="Vasudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-san&langs_count=10" />  
   <br /> 
 </details>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RoyIshan/count.svg" />
+  <img src="https://profile-counter.glitch.me/vasudev-san/count.svg" />
 </p>
 
 [website]: https://yash3001.github.io/mccoders
