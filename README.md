@@ -93,9 +93,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/vasudev-san/count.svg" />
 </p>
 
-[website]: 
-[twitter]: 
-[youtube]: 
 [instagram]: https://www.instagram.com/ya_ch.sh/
 [linkedin]: https://linkedin.com/
 [linux]: https://www.archlinux.org/
