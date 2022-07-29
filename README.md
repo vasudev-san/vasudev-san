@@ -23,12 +23,9 @@ Here are some ideas to get you started:
 ## I'm a Student and a Developer!!
 
 - 🌱 I’m currently working on something I guess 😆
-- ⌨️ I'm currently learning everything I can.
-- 👯 I’m looking to collaborate on NOTHING.
-- 🥅 2020 Goals: Ruined by coronavirus.
+- 🥅 2022 Goals: Trying to get a job.
 - 💬 Ask me about anything and everything !!
 - 📫 How to **Reach** me at: sanklavasudev@gmail.com 
-- ⚡ Fun fact: Just gooogle it 
 
 <br />
 
