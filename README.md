@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## I'm a Student and a Developer!!
 
 - 🌱 I’m currently working on something I guess 😆
-- 🥅 2022 Goals: Trying to get a job.
+- 🥅 2023 Goals: Having fun with code.
 - 💬 Ask me about anything and everything !!
-- 📫 How to **Reach** me at: sanklavasudev@gmail.com 
+- 📫 **Reach** me at: sanklavasudev@gmail.com 
 
 <br />
 
