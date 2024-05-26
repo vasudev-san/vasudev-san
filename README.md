@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <br />
 
-## I'm a Student and a Developer!!
+## I'm a Developer!!
 
 - 🌱 I’m currently working on something I guess 😆
-- 🥅 2023 Goals: Having fun with code.
+- 🥅 2024 Goals: Having fun with code.
 - 💬 Ask me about anything and everything !!
 - 📫 **Reach** me at: sanklavasudev@gmail.com 
 
