@@ -1,101 +1,90 @@
-
 <!--
 **vasudev-san/vasudev-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c2ffb,100:00dfd8&height=180&section=header&text=Hi%20👋%20I'm%20Vasudev!&fontSize=38&fontColor=ffffff" />
+</p>
 
-## Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-
-<br />
-
-## I'm Vasudev!!
-
-- 💼 I’m currently working in Cognizant 
-- ☁ I’m currently learning AWS
-- 📫 **Reach** me at: sanklavasudev@gmail.com 
-
-<br />
-
-## ➡️ Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vasudev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudev-sankla-3144271b1/)](https://www.linkedin.com/in/vasudev-sankla-3144271b1/)
-</br>
-![Gmail Badge](https://img.shields.io/badge/-sanklavasudev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanklavasudev@gmail.com)
-
-<br />
-<br />
-
-## Languages and Tools I Use:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual studio]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-
-<br />
-<br />
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00DFD8&size=25&center=true&vCenter=true&width=440&lines=Software+Engineer+at+Cognizant;Cloud+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
 ---
 
-|
-![Visitor Count](https://github-readme-stats.vercel.app/api?username=vasudev-san&count_private=true&theme=cobalt)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-san"/>|
-|---|---|
+## 👨‍💻 About Me
+
+- 💼 Working at **Cognizant**
+- ☁️ Currently learning **AWS**
+- 📫 Reach me at: **sanklavasudev@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vasudev-sankla-3144271b1/)
+- 🚀 Fun fact: I love to automate things!
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasudev-san&show_icons=true&theme=cobalt&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-san&theme=blue-green" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-san&langs_count=8&layout=compact&theme=cobalt"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vasudev-sankla-3144271b1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Vasudev-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanklavasudev@gmail.com">
+    <img src="https://img.shields.io/badge/-sanklavasudev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ya_ch.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <details>
-  <summary>Recent Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   <br />
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
   <br />
 </details>
+
+---
 
 <details>
-  <summary> :zap: Languages Used</summary>
+  <summary> :zap: More About Me</summary>
   <br />
-  <img alt="Vasudev's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev-san&langs_count=10" />  
-  <br /> 
+  <ul>
+    <li>🎯 Always striving to learn and grow.</li>
+    <li>🤝 Open to collaborations, feel free to reach out!</li>
+    <li>🎧 Music and tech keep me going.</li>
+  </ul>
 </details>
-
-
-[instagram]: https://www.instagram.com/ya_ch.sh/
-[linkedin]: https://linkedin.com/
-[linux]: https://www.archlinux.org/
-[visual studio]: https://code.visualstudio.com/
-[vim]: https://neovim.io/
-[python]: https://www.python.org/
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[html]: https://en.wikipedia.org/wiki/HTML
-[css]: https://en.wikipedia.org/wiki/CSS
-[sass]: https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
-[sql]: https://en.wikipedia.org/wiki/SQL
-[mysql]: https://www.mysql.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://st.suckless.org/
