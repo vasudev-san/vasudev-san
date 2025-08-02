@@ -67,16 +67,6 @@
 ---
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br />
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-  <br />
-</details>
-
----
-
-<details>
   <summary> :zap: More About Me</summary>
   <br />
   <ul>
