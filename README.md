@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently working on something I guess 😆
-- 🥅 2024 Goals: Having fun with code.
-- 💬 Ask me about anything and everything !!
+- 💼 I’m currently working in Cognizant 
+- ☁ I’m currently learning AWS
 - 📫 **Reach** me at: sanklavasudev@gmail.com 
 
 <br />
