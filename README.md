@@ -80,10 +80,6 @@ Here are some ideas to get you started:
   <br /> 
 </details>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vasudev-san/count.svg" />
-</p>
 
 [instagram]: https://www.instagram.com/ya_ch.sh/
 [linkedin]: https://linkedin.com/
