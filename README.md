@@ -62,9 +62,6 @@
   <a href="mailto:sanklavasudev@gmail.com">
     <img src="https://img.shields.io/badge/-sanklavasudev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ya_ch.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
